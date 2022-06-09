@@ -8,5 +8,7 @@ public class gitTest {
         System.out.println("hello test hot-fix 444");
         System.out.println("master test chongtu 555");
         System.out.println("hello test hot-fix 555 chongtu test");
+
+        System.out.println("push xindaima to GitHub");
     }
 }
