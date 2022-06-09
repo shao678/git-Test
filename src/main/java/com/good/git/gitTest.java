@@ -12,5 +12,8 @@ public class gitTest {
         System.out.println("push xindaima to GitHub");
         
         System.out.println("pull daima GitHub to IDEA");
+        
+        test 码云的强制更新功能
+            哈哈哈哈
     }
 }
