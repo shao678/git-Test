@@ -11,6 +11,6 @@ public class gitTest {
 
         System.out.println("push xindaima to GitHub");
         
-        system.out.println("pull daima GitHub to IDEA");
+        System.out.println("pull daima GitHub to IDEA");
     }
 }
